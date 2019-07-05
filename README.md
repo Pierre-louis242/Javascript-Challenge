@@ -9,4 +9,4 @@
 
 ##### For example, the GCD of 8 and 12 is 4.
 
-##### Challenge found on W3resource[https://www.w3resource.com/]
+##### Challenge found on W3resource [https://www.w3resource.com/]
