@@ -1,6 +1,6 @@
 # Javascript-Challenge
 
-## Write a JavaScript function to get the greatest common divisor (gcd) of two integers.
+## Write a JavaScript function to get the Greatest Common Divisor (GCD) of two integers.
 
 
 #### Note : 
