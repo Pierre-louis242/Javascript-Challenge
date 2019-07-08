@@ -28,6 +28,14 @@ window.onload = () => {
     }
 
 
+    // IF YOU WANT TO TEST YOUR FUNCTION'S PERFORMANCE
+    
+    // let t0 = performance.now();
+    // let res = gcdFinder(34, 56);
+    // let t1 = performance.now();
+    // console.log('Took', (t1 - t0).toFixed(4), 'milliseconds to generate:', res);
+    
+
     let form = document.getElementById('formToSent');
     form.addEventListener('submit', gcdFinder);
 }
