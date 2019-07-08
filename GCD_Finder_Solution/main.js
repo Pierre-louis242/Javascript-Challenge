@@ -30,9 +30,4 @@ window.onload = () => {
 
     let form = document.getElementById('formToSent');
     form.addEventListener('submit', gcdFinder);
-    let button = document.getElementById('submitButtonCss');
-    button.addEventListener('click', gcdFinder);
-
-
-
 }
