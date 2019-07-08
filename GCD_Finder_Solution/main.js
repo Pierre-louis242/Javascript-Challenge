@@ -15,7 +15,7 @@ window.onload = () => {
         }
     
         while(y) {
-            var t = y;
+            let t = y;
             y = x % y;
             x = t;
         }
